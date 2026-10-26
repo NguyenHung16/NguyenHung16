@@ -2,7 +2,7 @@
 ### Full-Stack Developer | Node.js (TypeScript) & Java
 
 <p align="left">
-  <a href="mailto:vonnguyenhung567@gmail.com"><img src="https://img.shields.io/badge/Email-vonnguyenhung567%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:vonguyenhung567@gmail.com"><img src="https://img.shields.io/badge/Email-vonnguyenhung567%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://github.com/NguyenHung16"><img src="https://img.shields.io/badge/GitHub-NguyenHung16-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-red?style=flat-square&logo=google-maps" alt="Location">
   <img src="https://img.shields.io/badge/Open%20To-Junior%20%2F%20Fresher%20Roles-brightgreen?style=flat-square" alt="Status">
