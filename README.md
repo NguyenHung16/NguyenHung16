@@ -34,22 +34,19 @@ A passionate Software Engineering student at **Ho Chi Minh City Open University*
 
 ### 🚀 Featured Repositories
 
-#### 1. [MESP - Enterprise Sales Platform](https://github.com/NguyenHung16/MESP)
-> Three-part modular monorepo combining public storefront, internal administration portal, and Strapi 5 headless CMS.
-* **Tech:** `Next.js 15 (App Router)`, `Strapi 5`, `next-intl`, `TailwindCSS`, `SePay VietQR`, `PM2`, `Vitest`.
-* **Highlights:** Real-time VietQR payment webhook reconciliation, HttpOnly cookie JWT security, custom DeepL/Lecto auto-translation CMS plugin, and automated Vitest test suites.
 
-#### 2. [Sale-Ecommerce (Nutriphar)](https://github.com/NguyenHung16/Sale-Ecommerce)
+
+#### 1. [Sale-Ecommerce (Nutriphar)](https://github.com/NguyenHung16/Sale-Ecommerce)
 > Production-ready e-commerce distribution platform for premium bird's nest products.
 * **Tech:** `NestJS`, `Next.js 15`, `MySQL`, `TypeORM`, `Resend API`, `Swagger`, `PM2`.
 * **Highlights:** Database schema migration versioning, email OTP authentication flow, automated payment webhooks, standardized JSON response/error envelopes, and OpenAPI decorators.
 
-#### 3. [Sales-Mobile (MESP)](https://github.com/NguyenHung16/Sales-Mobile)
+#### 2. [Sales-Mobile (MESP)](https://github.com/NguyenHung16/Sales-Mobile)
 > Cross-platform mobile shopping application with high-performance RESTful API backend.
 * **Tech:** `React Native (Expo)`, `NestJS`, `PostgreSQL`, `TypeORM`, `Redux Toolkit`, `i18n`.
 * **Highlights:** Persistent cart management, review system, Role-Based Access Control (RBAC), indexed PostgreSQL schemas, and multi-language support.
 
-#### 4. [QH Clinic (PhongMachJava)](https://github.com/NguyenHung16/PhongMachJava)
+#### 3. [QH Clinic (PhongMachJava)](https://github.com/NguyenHung16/PhongMachJava)
 > Comprehensive clinic and EHR management system with online appointments and payments.
 * **Tech:** `Spring Boot 3 (Java)`, `ReactJS`, `MySQL`, `Hibernate`, `VNPAY`, `Cloudinary`.
 * **Highlights:** Patient booking with deposit payment via VNPAY sandbox, electronic health records (EHR), prescription billing, and Cloudinary media integration.
